@@ -1,3 +1,3 @@
 # First-Portfolio-Project
-HR Analytics
+HR Analytics:
 EDA, Data Visualuzation and Regression Analysis
