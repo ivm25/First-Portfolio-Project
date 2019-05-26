@@ -1,6 +1,6 @@
 # Predicting the salary of a future recruit
 ## HR Analytics:
-### EDA, Data Visualuzation and Regression Analysis:
+### EDA, Data Visualization and Regression Analysis:
 
 - Predicting salaries of new recruits, by creatig a model that learns from the historical salaries data. In addition, identify the correlation of salaries and different variables like education, major and bring out actionable insights from the existing dataset.
 
